@@ -1,0 +1,20 @@
+1. Lakukan login dengan akun sebagai berikut:
+* Akun Admin:
+* Email: admin@yopmail.com
+* Password: admin123
+* Akun User:
+* Email: test123@yopmail.com
+* Password: test123
+2. Atau lakukan registrasi akun
+3. Anda sudah dapat menggunakan website
+4. Cara menggunakan fitur Upload berita dan jadwal pertandingan sebagai berikut:
+* Masuk dengan email admin 
+* Lalu masukan berita dan jadwal pertandingan yang ingin anda Upload
+* Lalu berita dan jadwal pertandingan akan muncul pada halaman User
+5. Cara menggunakan fitur prediksi sebagai berikut:
+* Masuk dengan email User
+* Klik ke halaman PLayer Predictions Page
+* Input statistik pemain yang ingin diprediksi
+* Download File Excel yang bernama DATATEST.xlsx pada folder
+* Input file excel untuk memprediksi menggunakan file excel
+* Anda dapat mendownload hasil prediksi dengan klik "Download Excel"

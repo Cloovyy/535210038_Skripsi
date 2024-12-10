@@ -1,0 +1,6 @@
+1. Extract File jika belum berbentuk folder
+2. Buka Folder pada visual studio code
+3. Jalankan komen npm install pada terminal
+4. Jalankan komen npm run dev pada terminal
+5. klik http pada local:
+6. Chrome akan terbuka secara otomatis
